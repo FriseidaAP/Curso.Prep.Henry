@@ -5,6 +5,8 @@ Hay varios. Puedes probarlos y elegir con el que te sientas más a gusto.
 
 A continuación van a ver una lista de algunos editores de textos populares:
 
+Notepad++
+
 # [Sublime Text](https://www.sublimetext.com)
 
 ![Sublime text](./img/sublime.png)
